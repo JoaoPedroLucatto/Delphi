@@ -1,0 +1,15 @@
+program Project1;
+
+uses
+  Vcl.Forms,
+  UiPrincipal in 'UiPrincipal.pas' {Form1},
+  cadTelas in 'cadTelas.pas' {Frame2: TFrame};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.

@@ -1,0 +1,92 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Optante - Simples Nacional | Cetil'
+  ClientHeight = 337
+  ClientWidth = 429
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 8
+    Top = 32
+    Width = 49
+    Height = 13
+    Caption = 'Banco SIA'
+  end
+  object LabelNomeArqui: TLabel
+    Left = 8
+    Top = 125
+    Width = 3
+    Height = 13
+  end
+  object Edit1: TEdit
+    Left = 8
+    Top = 49
+    Width = 413
+    Height = 21
+    TabOrder = 0
+    Text = 
+      'localhost/3055:C:\Fiorilli\convers'#227'o\CIDADES\CAPELA\SIS\DADOS\SS' +
+      'A.FDB'
+  end
+  object ButtonLocalizar: TButton
+    Left = 40
+    Top = 94
+    Width = 75
+    Height = 25
+    Caption = 'Arquivo'
+    TabOrder = 1
+    OnClick = ButtonLocalizarClick
+  end
+  object Button2: TButton
+    Left = 152
+    Top = 96
+    Width = 75
+    Height = 25
+    Caption = 'Analisar'
+    TabOrder = 2
+  end
+  object MemoExibi: TMemo
+    Left = 8
+    Top = 144
+    Width = 413
+    Height = 153
+    Lines.Strings = (
+      'MemoExibi')
+    TabOrder = 3
+  end
+  object ProgressBar1: TProgressBar
+    Left = 8
+    Top = 303
+    Width = 413
+    Height = 26
+    TabOrder = 4
+  end
+  object CheckAnalisar: TCheckBox
+    Left = 256
+    Top = 100
+    Width = 97
+    Height = 17
+    Caption = 'Analisar'
+    TabOrder = 5
+  end
+  object CheckUpdate: TCheckBox
+    Left = 324
+    Top = 99
+    Width = 97
+    Height = 17
+    Caption = 'Update'
+    TabOrder = 6
+  end
+  object DialogFile: TOpenDialog
+    Left = 192
+    Top = 5
+  end
+end

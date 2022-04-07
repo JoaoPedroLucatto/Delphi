@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/08 14:06:26.000.047,=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/08 14:08:46.000.619,=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/11/08 14:09:34.000.864,=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/11/08 14:55:31.000.879,=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/11/08 14:56:16.000.109,=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2021/11/08 15:02:17.000.774,C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\RealLustres-CERTO\MenuBarButtons.dfm=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2021/11/08 15:02:17.000.774,C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\RealLustres-CERTO\MenuBarButtons.pas=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2021/11/08 15:08:16.000.931,C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\RealLustres-CERTO\Cad_Materia_Prima.dfm=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2021/11/08 15:08:16.000.931,C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\RealLustres-CERTO\Cad_Materia_Prima.pas=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/11/08 15:10:33.000.233,C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\RealLustres-CERTO\Principal.pas=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/08 15:10:33.000.233,C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\RealLustres-CERTO\Principal.dfm=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/11/08 16:28:40.000.503,C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\RealLustres-CERTO\Project1.dproj=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/10/26 15:44:39.000.177,=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/26 15:52:48.000.840,=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/10/26 16:07:27.000.500,C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\RealLustres\cadTelas.pas</Transaction>
+    <Transaction>2021/10/26 16:07:27.000.500,C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\RealLustres\cadTelas.dfm</Transaction>
+    <Transaction>2021/10/26 16:08:13.000.239,C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\RealLustres\UiPrincipal.pas</Transaction>
+    <Transaction>2021/10/26 16:08:13.000.239,C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\RealLustres\UiPrincipal.dfm</Transaction>
+    <Transaction>2021/10/26 17:01:01.000.566,C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\RealLustres\Project1.dproj</Transaction>
+    <Transaction>2021/11/10 13:46:08.000.734,=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\RealLustres\Unit1.pas</Transaction>
+    <Transaction>2021/11/10 13:46:48.000.420,C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\RealLustres\DM.pas=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\RealLustres\Unit1.pas</Transaction>
+    <Transaction>2021/11/10 13:46:48.000.420,C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\RealLustres\DM.dfm=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\RealLustres\Unit1.dfm</Transaction>
+    <Transaction>2022/03/07 22:57:13.000.103,=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\RealLustres\Unit2.pas</Transaction>
+    <Transaction>2022/03/07 23:02:24.000.491,C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\RealLustres\UiRelMat.dfm=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\RealLustres\Unit2.dfm</Transaction>
+    <Transaction>2022/03/07 23:02:24.000.491,C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\RealLustres\UiRelMat.pas=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\RealLustres\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/09/15 09:36:19.000.862,=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/15 10:12:33.000.809,C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\DAF-SimplesNacional\Unit1.pas=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/15 10:12:33.000.809,C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\DAF-SimplesNacional\Unit1.dfm=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/09/15 13:49:12.000.518,C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\DAF-SimplesNacional\Project1.dproj=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

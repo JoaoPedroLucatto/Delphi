@@ -1,0 +1,39 @@
+unit UiRelMat;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Buttons, Vcl.StdCtrls, Vcl.ExtCtrls,
+  frxClass;
+
+type
+  TUiRelMateriaPrima = class(TForm)
+    PRelMateriaPrima: TPanel;
+    ComboBox1: TComboBox;
+    BtImprimirMateriaPrima: TSpeedButton;
+    frxReport1: TfrxReport;
+    frxUserDataSet1: TfrxUserDataSet;
+    procedure BtImprimirMateriaPrimaClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  UiRelMateriaPrima: TUiRelMateriaPrima;
+
+implementation
+
+{$R *.dfm}
+
+
+
+procedure TUiRelMateriaPrima.BtImprimirMateriaPrimaClick(Sender: TObject);
+begin
+  frxReport1.ShowReport();
+
+end;
+
+end.
