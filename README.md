@@ -1,3 +1,3 @@
 # Delphi
 
-  Projetos desenvolvido para alguns cliente
+  Projetos desenvolvido para alguns clientes
