@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<BorlandProject>
-  <Transactions>
-    <Transaction>2021/05/10 16:13:58.763,=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\\Unit1.pas</Transaction>
-    <Transaction>2021/05/10 16:39:17.768,C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\CEF-Retorno\Unitconversor.pas=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2021/05/10 16:39:17.768,C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\CEF-Retorno\Unitconversor.dfm=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2021/05/10 16:39:28.814,C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\CEF-Retorno\maracai.dproj=C:\Users\jpluc\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-  </Transactions>
-</BorlandProject>
